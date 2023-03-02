@@ -1,0 +1,39 @@
+/*html body styling*/
+body {
+    margin: 0em 4em 0.5em 4em;
+}
+
+.center {
+    margin: auto;
+}
+
+.yellow{
+    border: solid black 1px;
+    background-color: yellow;
+}
+
+#divMeetDetailBox {
+    margin: 0em 4em 0.5em 4em;
+    background-color: darkgoldenrod;
+}
+/*Calender styling*/
+caption {
+    background-color: burlywood;
+}
+
+table {
+    margin: 0em 4em 0.5em 4em;
+    background-color: lightgrey;
+    color: black;
+    border: solid 1pt black;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+td {
+    border: solid 1pt black;
+}
+
+    td:hover {
+        background-color: red;
+    }
